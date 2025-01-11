@@ -1,2 +1,1 @@
-Helloo, Git!
-this is a modification.
+hello, Git!
